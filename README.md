@@ -10,6 +10,3 @@ Hi, I’m Nikhil R Nambiar,<br>I’m an AI/ML enthusiast with a strong focus on 
 ![](https://github-readme-stats.vercel.app/api?username=Nikhil4002-50-82&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nikhil4002-50-82&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil4002-50-82&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nikhil4002-50-82&limit=5&theme=dark&combine_all_yearly_contributions=true)
